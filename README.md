@@ -15,3 +15,6 @@ from baseline_pipeline import BuildNLPBaseline
 
 pipeline = BuildNLPBaseline()
 pipeline.fit_predict(train_df, test_df)
+📦 Get the Full Premium Automation Kit
+To get the advanced fine-tuning templates, multi-model hyperparameter tuning scripts, and complete notebook setups:
+👉 Purchase Full Toolkit on Gumroad https://prashantrana1.gumroad.com/l/wonmit
